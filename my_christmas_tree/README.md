@@ -1,0 +1,16 @@
+My Christmas Tree
+
+Description
+
+Create a program which can be run in the terminal that display a Christmas Tree.
+
+Size will be given as the first parameter of the program.
+
+Usage: ./my_christmas_tree <size></size>
+
+Example:
+
+$>./my_christmas_tree 0
+
+$>./my_christmas_tree 1
+  
