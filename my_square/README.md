@@ -10,19 +10,8 @@ where :
 X is number of columns
 Y is number of rows
 
-my_square(5,3) should display:
+For example:
+my_square(5,3)
 
 $>./a.out 5 3
-o---o
-|   |
-o---o
-$>
 
-my_square(4, 4) should display:
-
-$>./a.out 4 4
-o--o
-|  |
-|  |
-o--o
-$>
